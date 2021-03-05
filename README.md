@@ -1,1 +1,1 @@
-<img align="center"[stats]: https://github-readme-stats.vercel.app/api?username=AustinC9&show_icons=true&count_private=false&theme=radical&hide=issues,commits />
+[![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AustinC9)](https://github.com/anuraghazra/github-readme-stats)
